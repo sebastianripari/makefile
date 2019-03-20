@@ -1,5 +1,9 @@
 # Makefile
 
+## Rule
+target: prerequisites
+	recipe
+
 all: library.cpp main.cpp
 
 $@ es el <b>target</b>, en este caso <b>all</b>.<br>
