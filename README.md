@@ -1,7 +1,7 @@
 # Makefile
 
 ## Rule
-target: prerequisites
+target: prerequisites<br>
 	recipe
 
 ## Patterns
