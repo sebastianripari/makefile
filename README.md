@@ -2,7 +2,7 @@
 
 ## Rule
 target: prerequisites<br>
-<tab>recipe
+&nbsp;recipe
 
 ## Patterns
 all: library.cpp main.cpp
